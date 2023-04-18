@@ -6,7 +6,6 @@ autogpt/__pycache__/keys.cpython-310.pyc
 autogpt/auto_gpt_workspace
 package-lock.json
 *.pyc
-auto_gpt_workspace/*
 *.mpeg
 .env
 azure.yaml
